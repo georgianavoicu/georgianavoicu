@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Georgi
+### Aspiring Junior Data Analyst
+I am passionate about data, fascinated by the logic behind numbers, and driven by finding real-world solutions. I enjoy combining analytical thinking with code to build efficient, fast, and actionable insights. I'm communicative, dynamic, and always open to continuous learning and feedback.
 
-<!--
-**georgianavoicu/georgianavoicu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tools & Technologies
+- **Data Analysis & Visualization:** SQL, Excel *(Intermediate - continuously improving)*, Power BI *(Currently learning)*
+- **Programming & Tools:** Python *(Currently learning)*, Git, GitHub
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+Currently building a new hands-on project to deepen my **SQL** and **Advanced Excel** skills.
+Eager to join a dynamic environment where I can grow and contribute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with me
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/georgiana-voicu-689415385/)
