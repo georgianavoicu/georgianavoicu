@@ -3,11 +3,11 @@
 I am passionate about data, fascinated by the logic behind numbers, and driven by finding real-world solutions. I enjoy combining analytical thinking with code to build efficient, fast, and actionable insights. I'm communicative, dynamic, and always open to continuous learning and feedback.
 
 ### 🛠️ Tools & Technologies
-- **Data Analysis & Visualization:** SQL, Excel *(Intermediate - continuously improving)*, Power BI *(Currently learning)*
-- **Programming & Tools:** Python *(Currently learning)*, Git, GitHub
+- **Data Analysis & Visualization:** SQL, Power BI *(Currently learning)*
+- **Programming & Tools:** Python *(Currently learning)*, GitHub
 
 ### 🚀 What I'm working on
-Currently building a new hands-on project to deepen my **SQL** and **Advanced Excel** skills.
+Currently building a new hands-on project to deepen my **SQL** and **Power BI** skills.
 Eager to join a dynamic environment where I can grow and contribute.
 
 ### 📬 Connect with me
