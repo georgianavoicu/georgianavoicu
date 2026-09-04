@@ -3,7 +3,7 @@
 I am passionate about data, fascinated by the logic behind numbers, and driven by finding real-world solutions. I enjoy combining analytical thinking with code to build efficient, fast, and actionable insights. I'm communicative, dynamic, and always open to continuous learning and feedback.
 
 ### 🛠️ Tools & Technologies
-- **Data Analysis & Visualization:** SQL, Power Query, Power BI *(Currently learning)*
+- **Data Analysis & Visualization:** SQL, Power Query, Excel, Power BI *(Currently learning)*
 - **Programming & Tools:** Python *(Currently learning)*, GitHub
 
 ### 🚀 What I'm working on
